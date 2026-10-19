@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **chloelleep/chloelleep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<!-- 
+<p align="center">
+  <img src="banner.png" width="100%" alt="banner"/>
+</p> 
+-->
+
+<h2 align="center">Hey, I'm Chloe 👋</h2>
+<p align="center">Software Engineering Student 🎓 | Building useful things 💻 | Always learning 🌱</p>
