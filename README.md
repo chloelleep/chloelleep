@@ -1,6 +1,7 @@
+
 <h2 align="center">Hey, I'm Chloe 👋</h2>
 
-<img width="200" height="112" alt="images" src="https://github.com/user-attachments/assets/9b723feb-c267-4c16-a3d6-42a2ac2a1a41" />
+<img width="245" height="245" alt="tumblr_dbf74f32bf1e280e500f6cbc4d7e66fd_df78a540_250" src="https://github.com/user-attachments/assets/a3ff0456-889b-471b-a0f3-1ecc2715936e" />
 
 <p align="center">
   Building useful things, one block at a time.
