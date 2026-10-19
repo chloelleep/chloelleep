@@ -14,11 +14,33 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- 
 <p align="center">
-  <img src="banner.png" width="100%" alt="banner"/>
+  <img src="banner.jpeg" width="100%" alt="banner"/>
 </p> 
--->
 
 <h2 align="center">Hey, I'm Chloe 👋</h2>
-<p align="center">Software Engineering Student 🎓 | Building useful things 💻 | Always learning 🌱</p>
+
+<p align="center">
+  Building useful things, one block at a time.
+</p>
+
+<p align="center">
+  🎓 Final-year Software Engineering student at the University of Waikato<br/>
+  🌱 Based in New Zealand · Always learning · Occasionally mining
+</p>
+
+---
+
+### 🧰 Inventory
+- **Languages:** TypeScript, Python, Java, Dart, SQL
+- **Frameworks:** React, Flutter
+- **Tools:** Git, Docker, Pytest, Playwright
+
+### ⛏️ Current builds
+<!--
+- **Smart Tool Library** — connecting web booking with physical smart lockers.
+-->
+- **Memory Game** — learning Flutter, a Flutter card-matching game.
+
+### 🌱 Gaining XP
+Improving software through testing, user feedback, and thoughtful design.
