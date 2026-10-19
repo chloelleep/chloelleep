@@ -1,3 +1,4 @@
+<img width="1472" height="838" alt="banner" src="https://github.com/user-attachments/assets/292ea9a4-ba2e-4633-a69f-2152a0ab7d2e" />
 
 <!--
 **chloelleep/chloelleep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,10 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p align="center">
-  <img src="banner.jpeg" width="100%" alt="banner"/>
-</p> 
 
 <h2 align="center">Hey, I'm Chloe 👋</h2>
 
