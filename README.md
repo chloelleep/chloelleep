@@ -1,4 +1,4 @@
-<img width="1472" height="838" alt="banner" src="https://github.com/user-attachments/assets/292ea9a4-ba2e-4633-a69f-2152a0ab7d2e" />
+<img width="2048" height="681" alt="banner" src="https://github.com/user-attachments/assets/bb93529a-936d-42cd-97a2-6107fcc8ec92" />
 
 <!--
 **chloelleep/chloelleep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
