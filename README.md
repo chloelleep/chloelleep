@@ -7,6 +7,8 @@
   Building useful things, one block at a time.
 </p>
 
+<img width="498" height="498" alt="c030b404bca1d7bf262dfaa9f3e41bda" src="https://github.com/user-attachments/assets/90f22265-2ed1-4bc7-bcfe-56458d5470e4" />
+
 <p align="center">
   🎓 Final-year Software Engineering student at the University of Waikato<br/>
   🌱 Based in New Zealand · Always learning · Occasionally mining
