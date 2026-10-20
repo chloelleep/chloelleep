@@ -23,7 +23,7 @@
 
 ---
 
-<img align="right" width="110" alt="Minecraft chest" src="https://github.com/user-attachments/assets/9d60ee7c-3b34-46ab-bc82-0bc4940748a6" />
+<img align="left" width="110" alt="Minecraft chest" src="https://github.com/user-attachments/assets/9d60ee7c-3b34-46ab-bc82-0bc4940748a6" />
 
 ### 🧰 Inventory
 
@@ -33,19 +33,17 @@
 
 <br clear="all">
 
-<img align="left" width="110" alt="Minecraft crafting table" src="https://github.com/user-attachments/assets/4ae36cbe-9e78-42b0-bde4-8ba7699c13ae" />
+<img align="right" width="110" alt="Minecraft crafting table" src="https://github.com/user-attachments/assets/4ae36cbe-9e78-42b0-bde4-8ba7699c13ae" />
 
-<h3 align="right">⛏️ Current builds</h3>
-<p align="right">
+### ⛏️ Current builds
+
 <strong><a href="https://github.com/chloelleep/memorygame">Memory Game</a></strong><br>
 A Flutter card-matching game featuring my puppy.<br>
 <a href="https://memorygame-d2eaf.web.app/">Play the demo →</a>
-</p>
-<br clear="all">
 
 <br clear="all">
 
-<img align="right" width="100" alt="Minecraft characters" src="https://github.com/user-attachments/assets/055a7744-f84d-479c-9cbd-6ad00a52d23d" />
+<img align="left" width="110" alt="Minecraft characters" src="https://github.com/user-attachments/assets/055a7744-f84d-479c-9cbd-6ad00a52d23d" />
 
 ### 🌱 Gaining XP
 
