@@ -32,7 +32,6 @@
 <strong>Tools:</strong> Git, Docker, Pytest, Playwright
 
 <br clear="all">
-<br>
 
 <img align="left" width="110" alt="Minecraft crafting table" src="https://github.com/user-attachments/assets/4ae36cbe-9e78-42b0-bde4-8ba7699c13ae" />
 
@@ -43,7 +42,6 @@ A Flutter card-matching game featuring my puppy.<br>
 <a href="https://memorygame-d2eaf.web.app/">Play the demo →</a>
 
 <br clear="all">
-<br>
 
 <img align="right" width="100" alt="Minecraft characters" src="https://github.com/user-attachments/assets/055a7744-f84d-479c-9cbd-6ad00a52d23d" />
 
