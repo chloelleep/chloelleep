@@ -41,6 +41,11 @@
 A Flutter card-matching game featuring my puppy.<br>
 <a href="https://memorygame-d2eaf.web.app/">Play the demo →</a>
 
+<br>
+<strong><a href="https://github.com/chloelleep/once-upon-a-time-app">Once Upon a Time</a></strong><br>
+A rich text editor with ChatGPT and DALL·E integration for AI-assisted writing and image generation.<br>
+<a href="https://once-upon-a-time-app.vercel.app/">Try the demo →</a>
+
 <br clear="all">
 
 <img align="left" width="100" alt="Minecraft characters" src="https://github.com/user-attachments/assets/055a7744-f84d-479c-9cbd-6ad00a52d23d" />
