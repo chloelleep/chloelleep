@@ -44,6 +44,8 @@ A Flutter card-matching game featuring my puppy.
 <br clear="all">
 <br>
 
+<img align="right" width="100" alt="Minecraft characters" src="https://github.com/user-attachments/assets/055a7744-f84d-479c-9cbd-6ad00a52d23d" />
+
 ### 🌱 Gaining XP
 
 Improving software through testing, user feedback, and thoughtful design.
