@@ -27,9 +27,9 @@
 
 ### 🧰 Inventory
 
-**Languages:** TypeScript, Python, Java, Dart, SQL
-**Frameworks:** React, Flutter
-**Tools:** Git, Docker, Pytest, Playwright
+<strong>Languages:</strong> TypeScript, Python, Java, Dart, SQL<br>
+<strong>Frameworks:</strong> React, Flutter<br>
+<strong>Tools:</strong> Git, Docker, Pytest, Playwright
 
 <br clear="all">
 <br>
@@ -38,8 +38,9 @@
 
 ### ⛏️ Current builds
 
-**Memory Game**
-A Flutter card-matching game featuring my puppy.
+<strong><a href="https://github.com/chloelleep/memorygame">Memory Game</a></strong><br>
+A Flutter card-matching game featuring my puppy.<br>
+<a href="https://memorygame-d2eaf.web.app/">Play the demo →</a>
 
 <br clear="all">
 <br>
