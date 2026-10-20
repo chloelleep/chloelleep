@@ -1,18 +1,25 @@
-
-<h2 align="center">Hey, I'm Chloe 👋</h2>
-
-<img width="245" height="245" alt="tumblr_dbf74f32bf1e280e500f6cbc4d7e66fd_df78a540_250" src="https://github.com/user-attachments/assets/a3ff0456-889b-471b-a0f3-1ecc2715936e" />
-
 <p align="center">
-  Building useful things, one block at a time.
+  <img
+    src="https://github.com/user-attachments/assets/a3ff0456-889b-471b-a0f3-1ecc2715936e"
+    width="65"
+    height="65"
+    alt="Minecraft bee"
+  />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=70AD47&center=true&vCenter=true&width=280&height=65&lines=Hey%2C+I%27m+Chloe"
+    width="280"
+    height="65"
+    alt="Hey, I'm Chloe"
+  />
+  <img
+    src="https://github.com/user-attachments/assets/a3ff0456-889b-471b-a0f3-1ecc2715936e"
+    width="65"
+    height="65"
+    alt="Minecraft bee"
+  />
 </p>
 
-<img width="498" height="498" alt="c030b404bca1d7bf262dfaa9f3e41bda" src="https://github.com/user-attachments/assets/90f22265-2ed1-4bc7-bcfe-56458d5470e4" />
-
-<p align="center">
-  🎓 Final-year Software Engineering student at the University of Waikato<br/>
-  🌱 Based in New Zealand · Always learning · Occasionally mining
-</p>
+<p align="center">Software Engineering Student 🎓 | Building useful things 💻 | Always learning 🌱</p>
 
 ---
 
