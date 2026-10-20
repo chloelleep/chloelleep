@@ -25,12 +25,12 @@
 
 <img align="left" width="110" alt="Minecraft chest" src="https://github.com/user-attachments/assets/9d60ee7c-3b34-46ab-bc82-0bc4940748a6" />
 
-### 🧰 Inventory
-
-<strong>Languages:</strong> TypeScript, Python, Java, Dart, SQL<br>
-<strong>Frameworks:</strong> React, Flutter<br>
-<strong>Tools:</strong> Git, Docker, Pytest, Playwright
-
+<h3 align="right">🧰 Inventory</h3>
+<p align="right">
+  <strong>Languages:</strong> TypeScript, Python, Java, Dart, SQL<br>
+  <strong>Frameworks:</strong> React, Flutter<br>
+  <strong>Tools:</strong> Git, Docker, Pytest, Playwright
+</p>
 <br clear="all">
 
 <img align="right" width="110" alt="Minecraft crafting table" src="https://github.com/user-attachments/assets/4ae36cbe-9e78-42b0-bde4-8ba7699c13ae" />
@@ -43,10 +43,10 @@ A Flutter card-matching game featuring my puppy.<br>
 
 <br clear="all">
 
-<img align="left" width="110" alt="Minecraft characters" src="https://github.com/user-attachments/assets/055a7744-f84d-479c-9cbd-6ad00a52d23d" />
+<img align="left" width="100" alt="Minecraft characters" src="https://github.com/user-attachments/assets/055a7744-f84d-479c-9cbd-6ad00a52d23d" />
 
-### 🌱 Gaining XP
-
-Improving software through testing, user feedback, and thoughtful design.
-
+<h3 align="right">🌱 Gaining XP</h3>
+<p align="right">
+  Improving software through testing, user feedback, and thoughtful design.
+</p>
 <br clear="all">
