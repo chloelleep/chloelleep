@@ -35,11 +35,13 @@
 
 <img align="left" width="110" alt="Minecraft crafting table" src="https://github.com/user-attachments/assets/4ae36cbe-9e78-42b0-bde4-8ba7699c13ae" />
 
-### ⛏️ Current builds
-
+<h3 align="right">⛏️ Current builds</h3>
+<p align="right">
 <strong><a href="https://github.com/chloelleep/memorygame">Memory Game</a></strong><br>
 A Flutter card-matching game featuring my puppy.<br>
 <a href="https://memorygame-d2eaf.web.app/">Play the demo →</a>
+</p>
+<br clear="all">
 
 <br clear="all">
 
