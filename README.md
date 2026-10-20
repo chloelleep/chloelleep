@@ -47,3 +47,5 @@ A Flutter card-matching game featuring my puppy.
 ### 🌱 Gaining XP
 
 Improving software through testing, user feedback, and thoughtful design.
+
+<br clear="all">
