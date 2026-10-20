@@ -35,18 +35,19 @@
 
 <img align="right" width="110" alt="Minecraft crafting table" src="https://github.com/user-attachments/assets/4ae36cbe-9e78-42b0-bde4-8ba7699c13ae" />
 
-### ⛏️ Current builds
-
+<h3>⛏️ Current builds</h3>
+<p>
 <strong><a href="https://github.com/chloelleep/memorygame">Memory Game</a></strong><br>
 A Flutter card-matching game featuring my puppy.<br>
 <a href="https://memorygame-d2eaf.web.app/">Play the demo →</a>
-
-<br>
+</p>
+<p>
 <strong><a href="https://github.com/chloelleep/once-upon-a-time-app">Once Upon a Time</a></strong><br>
-A rich text editor with ChatGPT and DALL·E integration for AI-assisted writing and image generation.<br>
+A rich text editor with AI-assisted writing and image generation.<br>
 <a href="https://once-upon-a-time-app.vercel.app/">Try the demo →</a>
-
+</p>
 <br clear="all">
+<br>
 
 <img align="left" width="100" alt="Minecraft characters" src="https://github.com/user-attachments/assets/055a7744-f84d-479c-9cbd-6ad00a52d23d" />
 
