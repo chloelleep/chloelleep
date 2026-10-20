@@ -1,20 +1,20 @@
 <p align="center">
   <img
     src="https://github.com/user-attachments/assets/a3ff0456-889b-471b-a0f3-1ecc2715936e"
-    width="65"
-    height="65"
+    width="50"
+    height="50"
     alt="Minecraft bee"
   />
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=70AD47&center=true&vCenter=true&width=280&height=65&lines=Hey%2C+I%27m+Chloe"
-    width="280"
-    height="65"
+    width="240"
+    height="50"
     alt="Hey, I'm Chloe"
   />
   <img
     src="https://github.com/user-attachments/assets/a3ff0456-889b-471b-a0f3-1ecc2715936e"
-    width="65"
-    height="65"
+    width="50"
+    height="50"
     alt="Minecraft bee"
   />
 </p>
